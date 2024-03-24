@@ -1,0 +1,5 @@
+LOC001, Conference Room 1
+LOC002, Board Room
+LOC003, Auditorium
+LOC004, Training Room
+LOC005, Lounge Area

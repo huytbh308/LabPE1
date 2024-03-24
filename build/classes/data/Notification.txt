@@ -1,0 +1,5 @@
+NT001, EMP001, EMP002, New message received
+NT002, EMP002, EMP003, Reminder: Meeting tomorrow at 10:00 AM
+NT003, EMP003, EMP004, Payment due today
+NT004, EMP004, EMP005, Task assigned: Complete by end of the week
+NT005, EMP005, EMP001, Event invitation: Dinner party on Saturday

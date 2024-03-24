@@ -1,0 +1,5 @@
+USR001, EMP001, john_doe, 123456, admin
+USR002, EMP002, alice_smith, abcdef, user
+USR003, EMP003, bob_johnson, password123, user
+USR004, EMP004, emily_brown, qwerty, user
+USR005, EMP005, michael_wilson, passpass, user
